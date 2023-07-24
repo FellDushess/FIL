@@ -1,0 +1,5 @@
+	FLASH NOTES
+
+- El movimiento de un jugador se incrementara levemente luego de iniciar la acción de moverse.
+- El disparo es unicamente horizontal.
+- El elevador cambia el nivel.
